@@ -48,4 +48,4 @@ Periféricos:
 
 Información del sistema:
 
-![Bios4](https://github.com/iesfuengirola1es/evalmontajeequipo-Angelgt27/blob/32e113c5964fda181c0e42f57b5e23c20870e193/Imagenes/IMG-20240930-WA0058.jpg)
+![Bios4](https://github.com/Angelgt27/SistPc/blob/03f8da7942e203737258bb8ac04e3e5bb78efce2/Imagenes/IMG-20240930-WA0058.jpg)
