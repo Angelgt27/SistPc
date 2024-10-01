@@ -44,7 +44,7 @@ MIT:
 
 Periféricos:
 
-![Bios3](https://github.com/iesfuengirola1es/evalmontajeequipo-Angelgt27/blob/6d8b2ab97fa0ef2bdd622ecff22ab2d3a5667be6/Imagenes/IMG-20240930-WA0057.jpg)
+![Bios3](https://github.com/Angelgt27/SistPc/blob/72b9c8655b82387441657df4fa6cb8bd7bcbb819/Imagenes/IMG-20240930-WA0057.jpg)
 
 Información del sistema:
 
