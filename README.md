@@ -38,7 +38,7 @@ Precauciones con la fuente de alimentación:
 
 MIT:
 
-![Bios1](https://github.com/iesfuengirola1es/evalmontajeequipo-Angelgt27/blob/ca208637c6fe2327e3faa9d251052514a848b9f7/Imagenes/IMG-20240930-WA0055.jpg)
+![Bios1](https://github.com/Angelgt27/SistPc/blob/a95852466d7b4855da3d00af1e77c013836e56aa/Imagenes/IMG-20240930-WA0055.jpg)
 
 ![Bios2](https://github.com/iesfuengirola1es/evalmontajeequipo-Angelgt27/blob/e5755c1e8a8c3405352c9cfddff6f035ee2e899a/Imagenes/IMG-20240930-WA0056.jpg)
 
